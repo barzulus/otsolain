@@ -26,19 +26,21 @@
 <br clear="right"/>
 
 <div align="center">
-  <h2>Tools That I Use</h2>
-  <p>
-    <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="Burp Suite" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" alt="Nmap" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" alt="ffuf" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://www.kali.org/tools/nuclei/images/nuclei-logo.svg" alt="Nuclei" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://www.kali.org/tools/whatweb/images/whatweb-logo.svg" alt="WhatWeb" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" alt="Gobuster" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" alt="Nikto" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="SQLMap" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg" alt="Docker" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/EndeavourOS_Logo.svg" alt="EndeavourOS" width="100" height="100" />
-  </p>
+  <h2>Tools</h2>
+  <table>
+    <tr>
+      <td><img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="50"/></td>
+      <td><img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="50"/></td>
+      <td><img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" width="50"/></td>
+      <td><img src="https://www.kali.org/tools/nuclei/images/nuclei-logo.svg" width="50"/></td>
+      <td><img src="https://www.kali.org/tools/whatweb/images/whatweb-logo.svg" width="50"/></td>
+      <td><img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" width="50"/></td>
+      <td><img src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" width="50"/></td>
+      <td><img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" width="50"/></td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg" width="50"/></td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/EndeavourOS_Logo.svg" width="50"/></td>
+    </tr>
+  </table>
 </div>
 
 <div align="center"> 
